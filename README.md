@@ -12,8 +12,9 @@ Gets a dad joke from the *icanhazdadjoke* API and posts it on Twitter under [@Da
 ## Used
 1. Python
 2. Requests
-3. Twitter API
-4. icanhazdadjoke API
+3. Crontab (runs every two hours)
+4. Twitter API
+5. icanhazdadjoke API
 
 ## Example Tweet
 ![Example Tweet](/exampleTweet.png)
